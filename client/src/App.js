@@ -70,7 +70,6 @@ function App() {
             onChange={(event)=>{
               setdatalist(event.target.value)
             }}
-            value="นาย"
            required
             >
             {/* <option selected disabled>เลือกคำนำหน้า</option> */}
